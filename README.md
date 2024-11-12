@@ -1,2 +1,3 @@
-# sensei
-Semantic Extraction and free-form text analysis
+# SemP.ai
+
+Semantic Parser: free-form text analysis and meaning extraction
